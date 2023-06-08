@@ -1,0 +1,87 @@
+ 
+
+body {
+     margin-left: 12rem;     
+    padding: 0;
+}
+a {
+    text-decoration:none;
+    color: #996633;
+}
+
+nav{ 
+    
+    display: flex ;    
+    align-content: space-around;
+     
+}
+
+.menu{
+    
+    padding: 3px;
+    display: flex;
+    /* justify-content: flex-end; */
+    align-items: end;
+    /* justify-content:space-evenly; */
+}
+
+section{
+    margin-top: 10rem;
+    
+    display: flex;
+    justify-content: space-evenly;
+      
+    /* padding-right: 2rem;   */
+}
+
+.card{
+    display: flex;
+    justify-content: flex-end;
+    
+}
+
+.crud{
+    display: flex;
+    justify-content: space-around;
+}
+
+.form{
+    display: flex;
+    justify-content: space-around;
+}
+
+.btn{
+    text-decoration:none;
+    color: #996633;
+}
+
+#prix{
+    border-style : none;
+    width: 1rem;
+}
+
+#stock{
+    border-style : none;
+    width: 1rem;
+}
+.field{
+    margin: 0;
+    padding: 2px;
+}
+
+h5{
+    display: flex;
+    align-items: centers;
+
+}
+.btn-menu{
+    margin: 12px;
+    padding: 3px;
+}
+
+.marque{
+    padding-right: 2rem;
+}
+.card-header{
+    background-color:transparent;
+}

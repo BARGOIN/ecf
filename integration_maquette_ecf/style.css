@@ -10,7 +10,7 @@ a {
 }
 
 nav{ 
-    
+    justify-content:space-evenly;
     display: flex ;    
     align-content: space-around;
      
@@ -20,9 +20,9 @@ nav{
     
     padding: 3px;
     display: flex;
-    /* justify-content: flex-end; */
+    
     align-items: end;
-    /* justify-content:space-evenly; */
+ 
 }
 
 section{
